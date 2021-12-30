@@ -1,0 +1,46 @@
+{
+  "cricketrs": [
+    {
+      "id": 1,
+      "first_name": "Surya",
+      "last_name": "Kumar",
+      "email": "sky@gmail.com",
+      "phone": "9989459969"
+    },
+    {
+      "first_name": "Sreyas",
+      "last_name": "Iyer",
+      "email": "sreyas@gmail.com",
+      "phone": "9666038569",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Rohit",
+      "last_name": "Sharma",
+      "email": "hitman@gmail.com",
+      "phone": "9848520022"
+    },
+    {
+      "first_name": "Virat",
+      "last_name": "Kohli",
+      "email": "kingkohli@gmail.com",
+      "phone": "9898565645",
+      "id": 4
+    },
+    {
+      "first_name": "sachin",
+      "last_name": "tendulkar",
+      "email": "srt@gmail.com",
+      "phone": "9910101010",
+      "id": 5
+    },
+    {
+      "first_name": "Mahendra ",
+      "last_name": "Singh Dhoni",
+      "email": "msd7@gmail.com",
+      "phone": "9707787777",
+      "id": 6
+    }
+  ]
+}

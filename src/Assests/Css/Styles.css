@@ -1,0 +1,32 @@
+.pic
+{
+    width :25%;
+    height :189px;
+    border : 2px solid firebrick;
+
+}
+
+.hed
+{
+    text-align: center;
+    border : 3px solid beige;
+    color : burlywood;
+
+}
+
+.par
+{
+    text-align:justify;
+    border : 1px solid goldrod;
+    color :mediumpurple;
+
+}
+ 
+.lik
+{
+    text-align: center;
+    background-color:papayawhip;
+    color:olive;
+    text-decoration: none;
+
+}
